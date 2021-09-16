@@ -1,0 +1,5 @@
+{"domain": ".python.org", "expiry": 1631791258, "httpOnly": false, "name": "__utmb", "path": "/", "secure": false, "value": "32101439.1.10.1631789458"}
+{"domain": ".python.org", "expiry": 1647557458, "httpOnly": false, "name": "__utmz", "path": "/", "secure": false, "value": "32101439.1631789458.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+{"domain": ".python.org", "expiry": 1631790058, "httpOnly": false, "name": "__utmt", "path": "/", "secure": false, "value": "1"}
+{"domain": ".python.org", "httpOnly": false, "name": "__utmc", "path": "/", "secure": false, "value": "32101439"}
+{"domain": ".python.org", "expiry": 1694861458, "httpOnly": false, "name": "__utma", "path": "/", "secure": false, "value": "32101439.21692999.1631789458.1631789458.1631789458.1"}
