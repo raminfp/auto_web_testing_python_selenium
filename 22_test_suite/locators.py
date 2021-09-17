@@ -25,4 +25,8 @@ class AdminPageLocators:
 
 
 class WorkShiftPageLocators:
-    pass
+    JOB = (By.ID, "menu_admin_Job")
+    ADMIN_WORK_SHIFT = (By.ID, "menu_admin_workShift")
+    ADMIN_WORK_SHIFT_ADD_BTN = (By.ID, "btnAdd")
+    WORK_SHIFT_NAME = (By.ID, "workShift_name")
+    WORK_SHIFT_SAVE = (By.ID, "btnSave")
