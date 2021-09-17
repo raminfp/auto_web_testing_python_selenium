@@ -6,7 +6,7 @@ url = "https://sharifict.ir/SendCode"
 
 
 def chromewebdriver():
-    return webdriver.Chrome("C:\\Users\\raminfp\\Desktop\\Day_1\\chromedriver_win32\\chromedriver.exe")
+    return webdriver.Chrome("..\\chromedriver\\chromedriver.exe")
 
 # 09191580000
 # 09191589999
