@@ -1,0 +1,20 @@
+TC_L_001 : Login Success 
+
+	1- Go to login page
+	2- Set User/pass 
+	3- Login is successful
+	
+
+TC_L_002 : Login Failed
+	1- Go to login page
+	2- set user and pass
+	3- login is failed
+
+
+TC_A_003 : Add job
+	1- Admin > Job > Job Title
+	2- Click Add job
+	3- Enter title for job
+	4- Enter Job Description
+	5- Click on btn save
+	6- Verify with flash message
