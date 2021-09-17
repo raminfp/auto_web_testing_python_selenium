@@ -1,0 +1,17 @@
+TC001 - Python Docs
+	1- Go to https://www.python.org/
+	2- Hover mouse over the Documentation link
+	3- verify click btn python docs
+	4- redirect to python docs
+
+
+TC002 - Search Python org
+	1- Go to python site ; https://www.python.org/
+	2- Click input text-box
+	3- Enter text in the search text box (“asdsa”)
+	4- Click btn “Go”
+	5- Verify result of search “No results found.”
+
+TC003 - About Page
+	1- Go to about page : https://www.python.org/psf/about/
+	2- Verify page-title message
