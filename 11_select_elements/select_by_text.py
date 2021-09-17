@@ -7,7 +7,7 @@ from selenium.webdriver import ActionChains
 url = "file:///C:/Users/raminfp/PycharmProjects/web_auto_selenium/html_example/select_option.html"
 
 def chromewebdriver():
-    return webdriver.Chrome("C:\\Users\\raminfp\\Desktop\\Day_1\\chromedriver_win32\\chromedriver.exe")
+    return webdriver.Chrome("..\\chromedriver\\chromedriver.exe")
 
 def mysite():
     driver = chromewebdriver()

@@ -12,7 +12,6 @@ def chromewebdriver():
 # 09191589999
 
 
-
 def mysite(phone):
     driver = chromewebdriver()
     driver.get(url)
@@ -25,9 +24,8 @@ def mysite(phone):
     time.sleep(5)
     driver.delete_all_cookies()
     driver.close()
-#
-# for i in range(9191580000, 9191589999):
 
+# for i in range(9191580000, 9191589999):
 
 while True:
     phone = "09191583239" #"0" + str(i)

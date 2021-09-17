@@ -4,10 +4,10 @@
 
 ### For Chrome
 from selenium import webdriver
-driver = webdriver.Chrome("C:\\Users\\raminfp\\Desktop\\Day_1\\chromedriver_win32\\chromedriver.exe")
+driver = webdriver.Chrome("..\\chromedriver\\chromedriver.exe")
 driver.get("https://google.com")
 
 ### For FireFox
 # from selenium import webdriver
-# driver = webdriver.Firefox(executable_path="C:\\Users\\raminfp\\Desktop\\Day_1\\test\\geckodriver.exe")
+# driver = webdriver.Firefox(executable_path="\\geckodriver.exe")
 # driver.get("https://google.com/search?q=hello guys.")

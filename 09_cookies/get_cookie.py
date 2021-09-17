@@ -7,7 +7,7 @@ url = "https://python.org"
 
 
 def chrome_webdriver():
-    return webdriver.Chrome("C:\\Users\\raminfp\\Desktop\\Day_1\\chromedriver_win32\\chromedriver.exe")
+    return webdriver.Chrome("..\\chromedriver\\chromedriver.exe")
 
 
 def file_writing(data):

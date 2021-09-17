@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 
-driver = webdriver.Chrome("C:\\Users\\raminfp\\Desktop\\Day_1\\chromedriver_win32\\chromedriver.exe")
+driver = webdriver.Chrome("..\\chromedriver\\chromedriver.exe")
 driver.get("http://jqueryui.com/droppable/")
 sleep(2)
 
