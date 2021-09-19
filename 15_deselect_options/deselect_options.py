@@ -3,7 +3,7 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-driver = webdriver.Chrome("C:\\Users\\raminfp\\Desktop\\Day_1\\chromedriver_win32\\chromedriver.exe")
+driver = webdriver.Chrome("..\\chromedriver_win32\\chromedriver.exe")
 driver.get("file:///C:/Users/raminfp/PycharmProjects/web_auto_selenium/html_example/deselect_option.html")
 
 select_element = driver.find_element_by_id("langs")
