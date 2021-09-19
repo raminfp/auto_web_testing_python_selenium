@@ -1,0 +1,8 @@
+stages:
+    - build 
+
+build-code-job:
+    stage: build
+    script:
+        - echo "this is a test"
+        - python3.9 test.py
